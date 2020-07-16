@@ -1,1 +1,0 @@
-¡Buenísimo! Ahora que sabemos `Regar Espaciado`, podemos avanzar con lo que queríamos hacer: regar los choclos. ¡Síguenos! :muscle:

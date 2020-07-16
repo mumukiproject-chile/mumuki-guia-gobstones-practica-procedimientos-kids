@@ -1,1 +1,0 @@
-¿Notas algún patrón en la forma de regar? ¡Estamos regando en forma de L! Quizás sea una buena idea armar un procedimiento para eso.

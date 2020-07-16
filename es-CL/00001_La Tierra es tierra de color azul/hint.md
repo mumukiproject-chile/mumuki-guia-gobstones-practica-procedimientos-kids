@@ -1,1 +1,0 @@
-Para definir `Regar`, toca en _Procedimientos_ y luego en _Nuevo procedimiento_. Puedes cambiarle el nombre tocando sobre `Hacer algo`. 
