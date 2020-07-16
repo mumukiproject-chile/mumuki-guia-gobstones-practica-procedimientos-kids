@@ -1,4 +1,5 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/toolbox_1553290173357.xml"></gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/config.json"></gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/toolbox_1553290173357.xml"></gs-toolbox>
 
 En este ejercicio verás cómo nuestros trabajos chiquititos, de hormiguita :ant:, nos servirán para hacer algo mucho más complejo. Sólo es cuestión de paciencia y de dividir los grandes problemas en pequeñas tareas. :wink:
 
