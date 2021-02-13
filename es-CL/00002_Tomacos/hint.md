@@ -1,0 +1,1 @@
+Recuerda que `Sembrar Cantero de Tomates` siembra los tomates hacia el `Este` y que ya definiste `Regar Cantero De Tomates` que los riega hacia el `Oeste`. 
